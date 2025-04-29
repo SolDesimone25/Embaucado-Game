@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1719889759 source:c:\users\maria sol desimone\desktop\programacion (p) i\tpcartas\tpcartas\main.cpp
+	<iostream>
+	"funciones.h"
+	<cstdlib>
+	<ctime>
+	<locale>
+	"rlutil.h"
+
+1719889547 c:\users\maria sol desimone\desktop\programacion (p) i\tpcartas\tpcartas\funciones.h
+
+1718762558 c:\users\maria sol desimone\desktop\programacion (p) i\tpcartas\tpcartas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719961530 source:c:\users\maria sol desimone\desktop\programacion (p) i\tpcartas\tpcartas\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<string>
+	"rlutil.h"
+
